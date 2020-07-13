@@ -4,6 +4,8 @@
  - DN42
  - Internet engineering
  - 🌱 I’m currently learning ...xD
+### Contact with me
+ - info@steveyi.net
  
 <!--
 **steveyiyo/steveyiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
