@@ -1,7 +1,10 @@
 ### Hi there 👋
-
  - My neme is SteveYi, I love learn my interest things
-
+### Recent new things
+ - DN42
+ - Internet engineering
+ - 🌱 I’m currently learning ...xD
+ 
 <!--
 **steveyiyo/steveyiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
