@@ -1,5 +1,5 @@
 ### Hi there 👋
- - My neme is SteveYi, I love learn my interest things
+ - My name is SteveYi, I love learn my interest things
 ### Recent new things
  - DN42
  - Internet engineering
