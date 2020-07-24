@@ -7,6 +7,9 @@
 ### Follow me!
 [![](https://img.shields.io/badge/-@steveyiyo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/steveyiyo) [![](https://img.shields.io/badge/-t.me/steveyi-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/s/steveyi)
 
+### Github
+[![](https://github-readme-stats.vercel.app/api?username=steveyiyo&theme=highcontrast)]
+
 ### Contact with me
  - info@steveyi.net
  
