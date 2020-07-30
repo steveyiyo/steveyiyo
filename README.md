@@ -16,7 +16,7 @@
 
  - Discord Server
 
-[![](https://discord.com/assets/bb408e0343ddedc0967f246f7e89cebf.svg)](https://steveyigame.com/discord.html)
+[![](https://static.yiy.tw/static/img/discord_steveyigame.png)](https://steveyigame.com/discord.html)
 
 ### Github
 ![image](https://github-readme-stats.vercel.app/api?username=steveyiyo&show_icons=true&title_color=fffacd&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
