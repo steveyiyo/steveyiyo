@@ -1,9 +1,10 @@
 ### Hi there 👋
- - My name is SteveYi, I love learn my interest things
+ - My name is SteveYi, I love to learn my interest things
 ### Recent new things
- - DN42(It's a big dynamic VPN)
- - Internet engineering(Check more infomation at [HERE](https://internet.steveyi.net))
- - 🌱 I’m currently learning ...xD
+ - 🌐 DN42 (It's a big dynamic VPN)
+ - 🌐 Internet engineering (Check more infomation at [HERE](https://internet.steveyi.net))
+ - 🌱 I’m currently learning more programming language
+ - 🙃 Try some interest things
 ### Follow me!
  - My Social Media
  
