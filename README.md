@@ -2,11 +2,13 @@
 
 ### Who am I? 👋
  - My name is SteveYi, I love to learn my interest things
+
 ### Recent new things
  - 🌐 DN42 (It's a big dynamic VPN)
  - 🌐 Internet engineering (Check more infomation at [HERE](https://internet.steveyi.net))
  - 🌱 I’m currently learning more programming language
  - 👼 Design video and website
+ 
 ### Follow me!
  - My Social Media
  
@@ -14,7 +16,8 @@
 
  - Discord Server
 
-[![](https://discord.com/assets/192cb9459cbc0f9e73e2591b700f1857.svg)](https://steveyigame.com/discord)
+[![](https://discord.com/assets/bb408e0343ddedc0967f246f7e89cebf.svg)](https://steveyigame.com/discord.html)
+
 ### Github
 ![image](https://github-readme-stats.vercel.app/api?username=steveyiyo&show_icons=true&title_color=fffacd&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
