@@ -19,7 +19,7 @@
 [![](https://static.yiy.tw/static/img/discord_steveyigame.png)](https://steveyigame.com/discord.html)
 
 ### Github
-![image](https://github-readme-stats.vercel.app/api?username=steveyiyo&show_icons=true&title_color=fffacd&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![image](https://github-readme-stats.vercel.app/api?username=steveyiyo&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af)
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=sukkaw&layout=compact&hide_border=true&title_color=a0a9af)
 
 ### Contact with me
