@@ -1,7 +1,7 @@
 # Welcome HERE!
 
 ### Who am I? 👋
- - My name is [SteveYi](https://steveyi.net), I love to learn my interest things
+ - My name is SteveYi, I love to learn my interest things
 
 ### Recent new things
  - 🌐 DN42 (It's a big dynamic VPN)
