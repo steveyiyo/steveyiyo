@@ -4,7 +4,6 @@
  - My name is SteveYi, I love to learn my interest things
 
 ### Recent new things
- - 🌐 DN42 (It's a big dynamic VPN)
  - 🌐 Internet engineering (Check more infomation at [HERE](https://internet.steveyi.net))
  - 🌱 I’m currently learning more programming language
  - 👼 Design video and website
@@ -15,4 +14,5 @@
 
 ### Contact with me
  - info@steveyi.net<br>
- - [![](https://img.shields.io/badge/-t.me/steveyi-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/s/steveyi)
+
+[![](https://img.shields.io/badge/-t.me/steveyi-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/s/steveyi)
