@@ -14,4 +14,4 @@
 
 ### Contact with me
  - info@steveyi.net<br>
-[![](https://img.shields.io/badge/-t.me/steveyi-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/s/steveyiyo)
+[![](https://img.shields.io/badge/-t.me/steveyiyo-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/s/steveyiyo)
