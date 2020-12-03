@@ -2,10 +2,10 @@
 
  - My name is SteveYi, I love to learn my interest things
 
-### Recent new things
+### SteveYi Network Service!
  - 🌐 Internet engineering (Check more infomation at [HERE](https://internet.steveyi.net))
- - 🌱 I’m currently learning more programming language
- - 👼 Design video and website
+ - 🌱 AS209557 / Check as-path graph at: https://bgp.he.net/AS209557/
+ - 👼 https://www.peeringdb.com/org/25047
 
 ### Github
 ![image](https://github-readme-stats.vercel.app/api?username=steveyiyo&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af)
