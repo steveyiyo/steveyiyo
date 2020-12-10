@@ -1,6 +1,6 @@
 # Welcome HERE!
 
- - Hey, SteveYi is HERE!
+Hey, SteveYi is HERE!
 
 ### SteveYi Network Service
  - 🌐 Internet engineering (Check more infomation at [HERE](https://network.steveyi.net))
