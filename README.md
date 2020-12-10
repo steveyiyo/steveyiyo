@@ -4,7 +4,7 @@
 
 ### SteveYi Network Service!
  - 🌐 Internet engineering (Check more infomation at [HERE](https://internet.steveyi.net))
- - 🌱 AS209557 / Check as-path graph at: https://bgp.he.net/AS209557/
+ - 🌱 AS209557 / Check as-path graph at: https://bgp.nat.moe/#AS209557
  - 👼 https://www.peeringdb.com/org/25047
 
 ### Github
