@@ -2,7 +2,7 @@
 
 Hey, SteveYi is HERE!  
 SteveYi is a student from Taiwan, who is interested in network engineering.  
-Current study Southern Taiwan University of Science and Technology - 2nd grade of five-year junior in school
+Current studying Southern Taiwan University of Science and Technology - 2nd grade of five-year junior in school
 
 ### SteveYi Network Service
  - 🌐 Network Engineering (Check more infomation at [HERE](https://network.steveyi.net))
