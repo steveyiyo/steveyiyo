@@ -2,7 +2,6 @@
 
 Hey, SteveYi is HERE!  
 SteveYi is a student from Taiwan, who is interested in network engineering.  
-Current studying Southern Taiwan University of Science and Technology - 2nd grade of five-year junior in school
 
 ### SteveYi Network Service
  - 🌐 Network Engineering (Check more infomation at [HERE](https://network.steveyi.net))
@@ -26,7 +25,7 @@ For SSH key, you should use this command to add it!
 
 Please notice! You shouldn't add any stranger's ssh key to your linux system, that's a dangerous things!
 
-```
+```bash
 mkdir ~/.ssh
 wget -O ~/.ssh/authorized_keys https://github.com/steveyiyo.keys
 ```
