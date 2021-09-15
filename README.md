@@ -1,31 +1,25 @@
-# Welcome HERE!
+# Hi, Welcome to here 👋
 
-Hey, SteveYi is HERE!  
-SteveYi is a student from Taiwan, who is interested in network engineering.  
+![](/images/banner.png)
 
-### SteveYi Network Service
- - 🌐 Network Engineering (Check more infomation at [HERE](https://network.steveyi.net))
- - 🌱 AS60614 / AS209557
- - 👼 https://www.peeringdb.com/org/25047
+- Banner Credit by [Seal 海豹](https://twitter.com/seal_hiber0w0)
 
+I am SteveYi, A high school student from Taiwan. Like to play [Supercell](https://supercell.com/) Games, and I make Gaming Video on YouTube!
 
-### Project
+You can also check my Channel - [SteveYi Gaming](https://www.youtube.com/steveyigame)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=steveyiyo&repo=frrouting-lg)](https://github.com/steveyiyo/frrouting-lg) 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=steveyiyo&repo=file_folder)](https://github.com/steveyiyo/file_folder)
+## Life
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=SteveYi-LAB&repo=SteveYi-ShortLink)](https://github.com/SteveYi-LAB/SteveYi-ShortLink) 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=SteveYi-LAB&repo=SteveYi-Whois)](https://github.com/SteveYi-LAB/SteveYi-Whois)
+You can follow my Twitter account, I often share my life story on there :)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=steveyiyo&repo=SteveYi-Network)](https://github.com/steveyiyo/SteveYi-Network)
+[![](/images/twitter-01.png)](https://twitter.com/steveyiyo)
+[![](/images/twitter-02.png)](https://twitter.com/Cool_Small_Yi)
 
-### Key
+## Contact Me
 
-For SSH key, you should use this command to add it!
+If you want to ask something, feel free to contact me!
 
-Please notice! You shouldn't add any stranger's ssh key to your linux system, that's a dangerous things!
-
-```bash
-mkdir ~/.ssh
-wget -O ~/.ssh/authorized_keys https://github.com/steveyiyo.keys
-```
+- Telegram: [https://t.me/steveyiyo/](https://t.me/steveyiyo/)
+- Facebook: [https://www.facebook.com/jackcooku/](https://www.facebook.com/jackcooku/)
+- Twitter: [https://twitter.com/steveyiyo/](https://twitter.com/steveyiyo/)
+- Email: [hi [at] steveyi [dot] net](mailto:hi@steveyi.net)
