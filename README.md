@@ -4,9 +4,7 @@
 
 - Banner Credit by [Seal 海豹](https://twitter.com/seal_hiber0w0)
 
-I am SteveYi, A high school student from Taiwan. Like to play [Supercell](https://supercell.com/) Games, and I make Gaming Video on YouTube!
-
-You can also check my Channel - [SteveYi Gaming](https://www.youtube.com/steveyigame)
+I am SteveYi, A high school student from Taiwan.
 
 ## Life
 
