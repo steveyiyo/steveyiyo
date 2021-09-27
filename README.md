@@ -6,13 +6,6 @@
 
 I am SteveYi, A high school student from Taiwan.
 
-## Life
-
-You can follow my Twitter account, I often share my life story on there :)
-
-[![](/images/twitter-01.png)](https://twitter.com/steveyiyo)
-[![](/images/twitter-02.png)](https://twitter.com/Cool_Small_Yi)
-
 ## Contact Me
 
 If you want to ask something, feel free to contact me!
