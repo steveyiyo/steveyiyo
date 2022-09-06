@@ -4,7 +4,7 @@
 
 - Banner Credit by [Seal 海豹](https://twitter.com/seal_hiber0w0)
 
-I am SteveYi, A high school student from Taiwan.
+I am SteveYi.
 
 ## Contact Me
 
