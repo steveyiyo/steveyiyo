@@ -1,22 +1,14 @@
-# Hi, Welcome to here 👋
+# Tsung? Yi? Yi Yu Tsung?
 
-![](/images/banner.png)
+It looks like everyone’s sharing their GitHub stats here, but why compete? Let’s just enjoy this space like social media. Honestly, I wanted to do something a bit different—posting stats doesn’t feel that cool to me. Since I’m really into Infra, cloud-native stuff, and development, I’ve been working on creating my own display tools.
 
-- Banner Credit by [Seal 海豹](https://twitter.com/seal_hiber0w0)
+A quick intro about me: I’m TsungYi Yu, you can call me Steve or SteveYi. For those unfamiliar with Chinese names, "TsungYi" is my first name, and "Yu" is my last name. I'm originally from Taiwan, and on official documents, my name is written as "Tsung-Yi Yu" (with a dash to separate the characters in Chinese).
 
-Tsung-Yi (a.k.a. SteveYi) is a student who focuses on edge networks and routing protocols such as BGP, OSPF, etc. Currently working at LINE Corporation as Site Reliability Engineering (SRE) Intern.
+I operating an AS networks (AS7480) in certain regions, where I establish direct peering with ISPs and experiment with unique routing architectures. I’m also conducting research at National University of Singapore (NUS). In addition to that, I’m an active community member, often participating in APNIC conferences and NOG.
 
-He is a former APNIC Fellows who got fully sponsored to attend the APNIC 54 conference hosted in Singapore. Also, he maintains a Border Network and connects with other NSPs by AS7480, and runs a personal Home Lab over the Internet tunnel and OSPF which can redistribute his internal routes. He even got the APAN/ISOC network‐engineering fellowship offer in 2021 and used the opportunity for his personal network research plan.
+If you have any questions, feel free to reach out! You’re also welcome to check out my website at [SteveYi.net](https://steveyi.net).
 
-On the application layer, He is good at using Golang or Python to design some tools (side project) and use IaC to automate deployment.
+## Social Media
 
-He operates a Docker Cluster (someone calls it Docker Swarm) for his personal side project use. Import GitOps, Combined with CI/CD and Git, once the new feature push to GitHub, it will auto-do the Unit Test and Integration Test. Then build it as a docker image and deploy it to the cluster, and improve the overall process.
-
-## Contact Me
-
-If you want to ask something, feel free to contact me!
-
-- Telegram: [https://t.me/steveyiyo/](https://t.me/steveyiyo/)
 - Facebook: [https://www.facebook.com/jackcooku/](https://www.facebook.com/jackcooku/)
-- Twitter: [https://twitter.com/steveyiyo/](https://twitter.com/steveyiyo/)
-- Email: [hi [at] steveyi [dot] net](mailto:hi@steveyi.net)
+- X: [https://x.com/steveyiyo/](https://x.com/steveyiyo/)
